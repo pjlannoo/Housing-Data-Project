@@ -24,9 +24,11 @@ In order to get a better regression model, we first had to remove non-important 
 The regression model is able to account for 57% of the varience in sale price. It was also able to give us the most impactful features of a house by looking at the coeffeciants for each feature. We found the living area of a house and grade are the top important features.
 
 *Average Grades for Houses*
+
 <img src="images/GradevsPrice.png " width="550" height="500">
 
 *Squarefoot vs Price*
+
 ![Living Area](images/SquarefootvsPrice.png )
 
 Although we had decent results, our model also had limitations. The model works better with average houses based on our filtering. Houses with no basement are difficult to predict. Newer houses may be undervalued. Inaccurate grade values may skew predictive results.
