@@ -55,7 +55,7 @@ Repository Structure:
         ├── Final_Model_Maybe.ipynb     # notebook creating final model
         ├── Rel_Clean_Data.ipynb        # notebook further cleaning data
         └── Work_Notebook.ipynb         # notebook creating initial models
-    └── Phil                            # folder containing initial modeling, notes, tool creation, and data cleaning
+    ├── Phil                            # folder containing initial data exploration, notes, tool creation, and data cleaning
         ├── DataCleaning.ipynb          # notebook containing initial data cleaning
         ├── Notes.ipynb                 # notebook containing notes to help in structuring the problem
         ├── PredictFunction.ipynb       # notebook where the predict function and take input function were created
