@@ -46,3 +46,23 @@ We would like to build a more accurate model. This means further reducing the ou
 Contact: [David Cruz](mailto:dcruzven20@gmail.com)
 
 Contact: [Phil Lannoo](pjlannoo@gmail.com)
+
+```
+Repository Structure:
+
+├── Notebooks                           # folder containing code/project notebooks
+    ├── David                           # folder containing initial modeling, final modeling, and data cleaning
+        ├── Final_Model_Maybe.ipynb     # notebook creating final model
+        ├── Rel_Clean_Data.ipynb        # notebook further cleaning data
+        └── Work_Notebook.ipynb         # notebook creating initial models
+    └── Phil                            # folder containing initial modeling, notes, tool creation, and data cleaning
+        ├── DataCleaning.ipynb          # notebook containing initial data cleaning
+        ├── Notes.ipynb                 # notebook containing notes to help in structuring the problem
+        ├── PredictFunction.ipynb       # notebook where the predict function and take input function were created
+        └── ScratchNotebook.ipynb       # notebook for general data exploration and programming
+├── data                                # files used in project
+├── images                              # images/graphics used in project
+├── FinalNotebook.ipynb                 # final code/project notebook
+├── House Anylsis.pdf                   # non-technical presentation slides
+└── README.md                           # top-level README for reviewers of this project
+```
